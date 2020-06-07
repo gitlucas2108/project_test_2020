@@ -67,7 +67,6 @@
 
             txtTelefone.Text = "99254-7273"
             txtEmail.Text = "email@email.com"
-            cboSituacao.SelectedIndex = 0
 
         Catch ex As Exception
             MsgBox("Erro em [Setar_Dados]", MsgBoxStyle.Exclamation)
